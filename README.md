@@ -1,7 +1,6 @@
 # WS-LegacyBase
 This is a public ESX-LEGACY base, plug and play. Instructions in Readme.
 
-- Support for Multicharacter
 - Free ESX LEGACY Base
 
 # INSTALL
